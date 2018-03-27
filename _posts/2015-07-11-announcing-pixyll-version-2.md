@@ -15,4 +15,5 @@ Pixyll now features:
 * Modular, and lighter weight CSS
 * No more `max-width` media queries
 
-![desk](https://golang.site/)
+<!-- ![desk](https://golang.site/) -->
+<![alt text](data:../images/me.jpeg)
